@@ -1,0 +1,21 @@
+# Sorted in ascending order
+*.mp4
+*.png
+*.pyc
+.DS_Store
+.idea
+__pycache__
+data/ckpt
+data/sequences
+external
+inputs
+logs
+outputs
+quanta_neural_networks.egg-info
+weights
+.pytest_cache
+.ipynb_checkpoints
+scripts
+
+
+data/assets
