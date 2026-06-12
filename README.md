@@ -1,5 +1,7 @@
 # Quanta Neural Networks
 
+Adapted version of the original repo : https://github.com/wision-lab/quanta_neural_networks
+Paper Reference : https://wisionlab.com/wp-content/uploads/2025/10/quanta_neural_networks.pdf
 **Authors:** Varun Sundar, Tianyi Zhang, Sacha Jungerman, Mohit Gupta.
 
 **Abstract:** Quanta image sensors record individual photons, enabling capabilities like imaging in near-complete darkness and ultra-high-speed videography. 
